@@ -3,8 +3,9 @@ package org.studyeasy;
 
 public class Sample {
     public static void main(String[] args) {
-        int x = 12/2;
-        String text = "Study" + "Easy";
+        int mod = 13%2;
+        int x = 5;
+        System.out.println(x--);
         System.out.println(x);
 
     }
