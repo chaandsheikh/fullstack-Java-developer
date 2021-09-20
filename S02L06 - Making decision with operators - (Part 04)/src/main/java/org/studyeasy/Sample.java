@@ -3,14 +3,25 @@ package org.studyeasy;
 
 public class Sample {
     public static void main(String[] args) {
-        boolean x = true;
-        boolean y = false;
 
-        if ( y || x ) {
-            System.out.println("Condition is TRUE");
-        }else {
-            System.out.println("Condition is FALSE");
+//        int x  = 5;
+//        int y = 10;
+//
+//        if ( (x < y) && (y >= 10) ) {
+//            System.out.println("Condition is TRUE");
+//        }else {
+//            System.out.println("Condition is FALSE");
+//        }
+
+        int ageOfBoy = 20;
+        int ageOfGirl = 28;
+
+        if ((ageOfBoy >= 21) && (ageOfGirl >= 18)) {
+            System.out.println("Eligible for marriage");
+        } else {
+            System.out.println("Wait for it kiddo!");
         }
+
 
     }
 }

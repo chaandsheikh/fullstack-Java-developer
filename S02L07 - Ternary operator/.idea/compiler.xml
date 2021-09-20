@@ -18,6 +18,7 @@
         <module name="S01L13 - Type casting in Java - (Part 02)" />
         <module name="S01L09 - Primitive Data Types - float type continues" />
         <module name="S01L14 - Exercise - Solve an equation" />
+        <module name="S02L07 - Ternary operator" />
         <module name="S01L10 - Primitive Data Types - boolean and char" />
         <module name="S01L11 - String basics" />
         <module name="HelloWorldMaven" />
