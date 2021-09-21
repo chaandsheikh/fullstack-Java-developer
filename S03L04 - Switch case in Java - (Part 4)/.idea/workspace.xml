@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c2a4d54-41f5-4072-b2c2-0aa3fda5ae02" name="Changes" comment="added new projects">
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/.idea/artifacts/HelloWorld_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/out/artifacts/HelloWorld_jar/HelloWorld.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/out/production/HelloWorld/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/out/production/HelloWorld/org/studyeasy/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L02 - HelloWorld Java program without Maven/src/org/studyeasy/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/src/main/java/org/studyeasy/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/target/classes/org/studyeasy/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L04 - Maven jar plugin example/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/src/main/java/org/studyeasy/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/target/classes/org/studyeasy/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L06 - Understanding variables/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/src/main/java/org/studyeasy/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L07 - Primitive Data Types - integer type/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L08 - Primitive Data Types - float type/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L09 - Primitive Data Types - float type continues/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L10 - Primitive Data Types - boolean and char/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L11 - String basics/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L12 - Type casting in Java - (Part 01)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L13 - Type casting in Java - (Part 02)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S01L14 - Exercise - Solve an equation/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L01 - Arithematic operators in Java - (Part 01)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L02 - Arithematic operators in Java - (Part 02)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L03 - Making decision with operators - (Part 01)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L04 - Making decision with operators - (Part 02)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L05 - Making decision with operators - (Part 03)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L06 - Making decision with operators - (Part 04)/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L07 - Ternary operator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L08 -  Assignment operators/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/Extra/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/src/main/java/org/studyeasy/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/target/HelloWorldMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/target/classes/org/studyeasy/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S02L09 - Making decision with else if/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yEgynkNP8nCYjr7h0152QJ0iZv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Projects/S03L04 - Switch case in Java - (Part 4)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c2a4d54-41f5-4072-b2c2-0aa3fda5ae02" name="Changes" comment="" />
+      <created>1631822420860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631822420860</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added new projects">
+      <created>1632082986267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632082986267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added new projects">
+      <created>1632162806863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632162806863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added new projects">
+      <created>1632185201058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632185201058</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new projects" />
+  </component>
+</project>
